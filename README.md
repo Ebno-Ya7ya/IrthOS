@@ -1,3 +1,5 @@
+# ⚠️ This project has just started. It's so early in Development. 
+
 # Irth OS (إرث).
 Irth is an Open-Source OS, written in Rust, 
 with the point of only supporting Arabic, as a way to make an "Enviornment" that is Arabic only, yet Capable (At least. For Devs..)
